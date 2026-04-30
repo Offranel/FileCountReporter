@@ -31,18 +31,13 @@ The program also scans all subfolders.
 
 ## 📷 Screenshots
 
-Add screenshots to the repository under an assets/screenshots folder and reference them below. Example files:
-
-- assets/screenshots/main-interface.png
-- assets/screenshots/results-display.png
-
-You can add images using this markdown syntax:
-
-![Main Interface](Design1.PNG)
-
 ### 🔹 Main Interface
 
-![Main Interface](assets/screenshots/Design2.PNG)
+![Main Interface](assets/screenshots/main-interface.png)
+
+### 🔹 Results Display
+
+![Results Display](assets/screenshots/results-display.png)
 
 ### 🔹 Results Display
 
