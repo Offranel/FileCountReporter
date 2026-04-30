@@ -38,6 +38,7 @@
             btnBrowse = new Button();
             btnScan = new Button();
             btnExit = new Button();
+            listBoxTypes = new ListBox();
             SuspendLayout();
             // 
             // lblTitle
@@ -112,7 +113,7 @@
             // 
             // btnScan
             // 
-            btnScan.Location = new Point(325, 202);
+            btnScan.Location = new Point(263, 211);
             btnScan.Name = "btnScan";
             btnScan.Size = new Size(188, 58);
             btnScan.TabIndex = 8;
@@ -121,18 +122,27 @@
             // 
             // btnExit
             // 
-            btnExit.Location = new Point(336, 340);
+            btnExit.Location = new Point(251, 364);
             btnExit.Name = "btnExit";
             btnExit.Size = new Size(188, 58);
             btnExit.TabIndex = 9;
             btnExit.Text = "Exit";
             btnExit.UseVisualStyleBackColor = true;
             // 
+            // listBoxTypes
+            // 
+            listBoxTypes.FormattingEnabled = true;
+            listBoxTypes.Location = new Point(488, 266);
+            listBoxTypes.Name = "listBoxTypes";
+            listBoxTypes.Size = new Size(300, 86);
+            listBoxTypes.TabIndex = 10;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(listBoxTypes);
             Controls.Add(btnExit);
             Controls.Add(btnScan);
             Controls.Add(btnBrowse);
@@ -161,5 +171,6 @@
         private Button btnBrowse;
         private Button btnScan;
         private Button btnExit;
+        private ListBox listBoxTypes;
     }
 }
