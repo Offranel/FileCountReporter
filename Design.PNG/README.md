@@ -38,11 +38,11 @@ Add screenshots to the repository under an assets/screenshots folder and referen
 
 You can add images using this markdown syntax:
 
-![Main Interface](Design1.PNG)
+![Main Interface](assets/screenshots/main-interface.png)
 
 ### 🔹 Main Interface
 
-![Main Interface](assets/screenshots/Design2.PNG)
+![Main Interface](assets/screenshots/main-interface.png)
 
 ### 🔹 Results Display
 
@@ -57,3 +57,7 @@ You can add images using this markdown syntax:
 3. Click "Browse" to select a folder
 4. Click "Scan Folder" to view results
 
+##
+
+---
+# FileCountReporter
