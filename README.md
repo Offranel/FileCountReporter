@@ -31,19 +31,14 @@ The program also scans all subfolders.
 
 ## 📷 Screenshots
 
-### 🔹 Main Interface
 
-![Main Interface](assets/screenshots/main-interface.png)
+![Main Interface](Design1.PNG)
 
-### 🔹 Results Display
 
-![Results Display](assets/screenshots/results-display.png)
+![Results Display](Design2.PNG)
 
-### 🔹 Results Display
 
-![Results Display](assets/screenshots/results-display.png)
-
----
+![File Types](Design3.PNG)
 
 ## 🚀 How to Run
 
