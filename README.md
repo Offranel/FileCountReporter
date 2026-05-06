@@ -1,6 +1,6 @@
-# 📁 File Type Analyzer (Windows Forms App)
+# File Type Analyzer (Windows Forms App)
 
-## 📌 Description
+##  Description
 
 This application allows the user to select a folder and analyze its contents.
 It counts:
@@ -13,7 +13,7 @@ The program also scans all subfolders.
 
 ---
 
-## ⚙️ Features
+## Features
 
 * Browse and select a folder
 * Count files and folders
@@ -22,14 +22,14 @@ The program also scans all subfolders.
 
 ---
 
-## 🖥️ Technologies Used
+## Technologies Used
 
 * C#
 * Windows Forms (.NET)
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 
 ![Main Interface](Design1.PNG)
@@ -40,7 +40,7 @@ The program also scans all subfolders.
 
 ![File Types](Design3.PNG)
 
-## 🚀 How to Run
+## How to Run
 
 1. Open the project in Visual Studio
 2. Build and run the application
